@@ -56,8 +56,6 @@ Your final app should look something like this.
 
 * Show loader while data is loading and display error snackbar in case of error
 
-* Use bloc pattern if possible
-
 * Try to implement the app in modular and reusable way
 
 * Most importantly, keep things simple and fun
